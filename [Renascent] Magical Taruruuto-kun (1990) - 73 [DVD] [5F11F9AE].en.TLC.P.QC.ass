@@ -11,13 +11,12 @@ YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio File: [Renascent] Magical Taruruuto-kun (1990) - 73 [DVD] [5F11F9AE].mkv
 Video File: [Renascent] Magical Taruruuto-kun (1990) - 73 [DVD] [5F11F9AE].mkv
-Keyframes File: tarukf/taru73_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.367377
-Video Zoom Percent: 1.750000
-Scroll Position: 345
-Active Line: 355
-Video Position: 31783
+Video Zoom Percent: 1.250000
+Scroll Position: 342
+Active Line: 360
+Video Position: 33235
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,14 +66,14 @@ Dialogue: 0,0:01:40.86,0:01:44.89,Default,,0,0,0,,For conveying your feelings \N
 Dialogue: 0,0:01:46.38,0:01:50.65,Default,,0,0,0,,Give her a marvelous present to win her heart over!
 Dialogue: 0,0:01:51.34,0:01:54.09,Default,,0,0,0,,I see. A present?
 Dialogue: 0,0:01:55.89,0:01:55.97,Sign,,0,0,0,,{\c&H3530B8&\3c&HC7D8CD&\fs60}Wham
-Dialogue: 0,0:02:07.08,0:02:11.06,Default,,0,0,0,,A present to win Mimora-chan's heart over.
+Dialogue: 0,0:02:07.08,0:02:11.06,Default,,0,0,0,,A present to win Mimora-chan's heart over...
 Dialogue: 0,0:02:11.06,0:02:18.49,Sign,,0,0,80,,{\c&HE3E5DD&\blur0.8\bord0}Episode 73 \N{\fs50}Diary of Rival's Pure Love {ライバー純情日記}
 Dialogue: 0,0:02:24.74,0:02:28.22,Default,,0,0,0,,Ugh! It's so chilly! \NLet's hurry up inside the greenhouse. {g, no clue what's first two words}
 Dialogue: 0,0:02:28.22,0:02:28.99,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:02:29.27,0:02:31.42,Default,,0,0,0,,We hurry-ru-ru inside!
 Dialogue: 0,0:02:33.42,0:02:35.25,Default,,0,0,0,,So warm in here!
 Dialogue: 0,0:02:36.97,0:02:38.38,Default,,0,0,0,,Warm!
-Dialogue: 0,0:02:38.38,0:02:39.91,Default,,0,0,0,,It's like the spring has come.
+Dialogue: 0,0:02:38.38,0:02:39.91,Default,,0,0,0,,It's like spring has come.
 Dialogue: 0,0:02:39.91,0:02:42.98,Default,,0,0,0,,Isn't it wonderful? So many different flowers!
 Dialogue: 0,0:02:44.49,0:02:46.54,Default,,0,0,0,,Wait, Taru-sama!
 Dialogue: 0,0:02:47.46,0:02:49.92,Default,,0,0,0,,It's good to be carefree like Taru.
@@ -89,25 +88,25 @@ Dialogue: 0,0:03:15.08,0:03:17.84,Default,,0,0,0,,Taru-sama? Are you okay?
 Dialogue: 0,0:03:17.84,0:03:19.32,Default,,0,0,0,,Me okay.
 Dialogue: 0,0:03:19.32,0:03:20.18,Default,,0,0,0,,I'm glad.
 Dialogue: 0,0:03:21.16,0:03:23.18,Default,,0,0,0,,Damn you, Taru!
-Dialogue: 0,0:03:23.18,0:03:27.15,Default,,0,0,0,,Always so clingy and flirty with Mimora-chan! {clinging (e.g. of a person); following around; being all over (each other); flirting​ - unsure, maybe "receiving .. from mimiora"}
+Dialogue: 0,0:03:23.18,0:03:27.15,Default,,0,0,0,,Always so clingy and flirty with Mimora-chan...! {clinging (e.g. of a person); following around; being all over (each other); flirting​ - unsure, maybe "receiving .. from mimiora"}
 Dialogue: 0,0:03:27.15,0:03:28.58,Default,,0,0,0,,I won't let it slide!
 Dialogue: 0,0:03:28.58,0:03:33.80,Default,,0,0,0,,Rival! The thing with girls is, \Nyou need to enamor them using your own power.
-Dialogue: 0,0:03:33.80,0:03:36.42,Default,,0,0,0,,Screwing over your rival in love \Nwould get you nowhere. {to trap (into a difficult situation); to put (in a fix); to throw (e.g. into turmoil); to trick (into doing); to lure (into a trap); to frame (for a crime)}
+Dialogue: 0,0:03:33.80,0:03:36.42,Default,,0,0,0,,Screwing over your rival in love \Nwill get you nowhere. {to trap (into a difficult situation); to put (in a fix); to throw (e.g. into turmoil); to trick (into doing); to lure (into a trap); to frame (for a crime)}
 Dialogue: 0,0:03:36.42,0:03:39.12,Default,,0,0,0,,If fact, doing so is very cowardly.
 Dialogue: 0,0:03:40.86,0:03:43.09,Default,,0,0,0,,I'm no coward!
 Dialogue: 0,0:03:43.82,0:03:48.18,Default,,0,0,0,,I'll use my own power to wrest \NMimora-chan's heart out of his claws!
 Dialogue: 0,0:03:50.04,0:03:53.80,Default,,0,0,0,,Taru-sama! Aren't the flowers beautiful?
-Dialogue: 0,0:03:57.81,0:03:59.01,Default,,0,0,0,,My!
+Dialogue: 0,0:03:57.81,0:03:59.01,Default,,0,0,0,,Oh my!
 Dialogue: 0,0:03:59.78,0:04:01.36,Default,,0,0,0,,Cute!
 Dialogue: 0,0:04:01.84,0:04:03.35,Default,,0,0,0,,Flowers are friends.
 Dialogue: 0,0:04:07.43,0:04:10.22,Default,,0,0,0,,Let's sing togetheru-ru-ru!
 Dialogue: 0,0:04:10.22,0:04:14.34,Default,,0,0,0,,I love you!
 Dialogue: 0,0:04:14.34,0:04:18.60,Default,,0,0,0,,And you love everyone!
 Dialogue: 0,0:04:18.60,0:04:22.45,Default,,0,0,0,,Everyone also loves me!
-Dialogue: 0,0:04:22.45,0:04:27.49,Default,,0,0,0,,{\an8}Let's go around and tell everyone! {g}
+Dialogue: 0,0:04:22.45,0:04:27.49,Default,,0,0,10,,{\an8}Let's go around and tell everyone! {g}
 Dialogue: 0,0:04:24.89,0:04:27.51,Default,,0,0,0,,How can you be that childish?
-Dialogue: 0,0:04:27.51,0:04:30.27,Default,,0,0,0,,What's all this "friends with flowers" bull?
-Dialogue: 0,0:04:28.86,0:04:35.46,Default,,0,0,0,,{\an8}Together, together!{g}
+Dialogue: 0,0:04:27.51,0:04:30.27,Default,,0,0,0,,What's all this crap about being "friends with flowers"?
+Dialogue: 0,0:04:28.86,0:04:35.46,Default,,0,0,10,,{\an8}Together, together!{g}
 Dialogue: 0,0:04:30.27,0:04:32.34,Default,,0,0,0,,You're just a sissy, Taruruuto! {effeminate; unmanly; cowardly; sissy}
 Dialogue: 0,0:04:38.69,0:04:41.53,Default,,0,0,0,,Isn't Taru-sama's magic wonderful?
 Dialogue: 0,0:04:43.65,0:04:45.26,Default,,0,0,0,,I'm mesmerized!
@@ -125,7 +124,7 @@ Dialogue: 0,0:05:24.01,0:05:24.90,Default,,0,0,0,,No!
 Dialogue: 0,0:05:24.90,0:05:26.00,Default,,0,0,0,,Friends!
 Dialogue: 0,0:05:26.00,0:05:27.86,Default,,0,0,0,,Taru-sama, take it away!{g}
 Dialogue: 0,0:05:27.86,0:05:29.87,Default,,0,0,0,,Mimora-chan, I'll save you!
-Dialogue: 0,0:05:29.87,0:05:32.83,Default,,0,0,0,,Taru! Don't you bully Mimora-chan!
+Dialogue: 0,0:05:29.87,0:05:32.83,Default,,0,0,0,,Wait! Don't you bully Mimora-chan!
 Dialogue: 0,0:05:38.50,0:05:40.74,Default,,0,0,0,,Mimora-chan has me to protect her!
 Dialogue: 0,0:05:43.74,0:05:45.59,Default,,0,0,0,,Taru-sama!
 Dialogue: 0,0:05:45.59,0:05:50.01,Default,,0,0,0,,Rival... Sneakily attacking Taru-sama like that...{/suddenly}
@@ -143,9 +142,9 @@ Dialogue: 0,0:06:44.76,0:06:46.86,Default,,0,0,0,,This flower must become my pre
 Dialogue: 0,0:06:52.02,0:06:54.47,Default,,0,0,0,,I wonder what kind of flower this is.
 Dialogue: 0,0:06:54.47,0:06:56.15,Default,,0,0,0,,A beautiful one!
 Dialogue: 0,0:06:56.15,0:06:58.46,Default,,0,0,0,,Mimora-chan!
-Dialogue: 0,0:06:58.46,0:07:00.71,Default,,0,0,0,,Seems like Rival haven't had enough. {/coming again}
+Dialogue: 0,0:06:58.46,0:07:00.71,Default,,0,0,0,,Seems like Rival hasn't had enough. {/coming again}
 Dialogue: 0,0:07:02.46,0:07:03.94,Default,,0,0,0,,What is it he's carrying?
-Dialogue: 0,0:07:07.99,0:07:09.72,Default,,0,0,0,,Look, look at this flower!
+Dialogue: 0,0:07:07.99,0:07:09.72,Default,,0,0,0,,Look at this flower!
 Dialogue: 0,0:07:10.76,0:07:13.87,Default,,0,0,0,,Hey, where did you get it from?
 Dialogue: 0,0:07:15.16,0:07:17.83,Default,,0,0,0,,What in the world is this flower?
 Dialogue: 0,0:07:18.27,0:07:20.34,Default,,0,0,0,,Here. See this?
@@ -158,15 +157,15 @@ Dialogue: 0,0:07:40.39,0:07:43.32,Default,,0,0,0,,This is my present to Mimora-c
 Dialogue: 0,0:07:45.44,0:07:46.28,Default,,0,0,0,,Keep it. {g}
 Dialogue: 0,0:07:48.00,0:07:49.70,Default,,0,0,0,,I don't feel so well!
 Dialogue: 0,0:07:50.66,0:07:52.87,Default,,0,0,0,,And don't come near me! {g, desuwane?}
-Dialogue: 0,0:07:59.56,0:08:00.89,Default,,0,0,0,,Why...
+Dialogue: 0,0:07:59.56,0:08:00.89,Default,,0,0,0,,Why...?
 Dialogue: 0,0:08:02.92,0:08:06.33,Default,,0,0,0,,You can't expect a girl to be into this kind of flower.
 Dialogue: 0,0:08:06.90,0:08:08.32,Default,,0,0,0,,Dammit!
 Dialogue: 0,0:08:10.64,0:08:11.55,Default,,0,0,0,,Sniffle... {sniff; sniffle; snuffle}
-Dialogue: 0,0:08:13.49,0:08:15.96,Default,,0,0,0,,Easy, easy. This isn't you fault.
+Dialogue: 0,0:08:13.49,0:08:15.96,Default,,0,0,0,,Easy, easy. This isn't your fault.
 Dialogue: 0,0:08:15.96,0:08:18.16,Default,,0,0,0,,Let's return you to where you came from.
 Dialogue: 0,0:08:22.18,0:08:24.58,Default,,0,0,0,,I don't understand, I don't!
-Dialogue: 0,0:08:24.58,0:08:29.72,Default,,0,0,0,,Rival, if there's something you can't understand, \Nread a book and conduct a research.
-Dialogue: 0,0:08:30.27,0:08:33.55,Default,,0,0,0,,Right! If I consult a book, I'd be fine!
+Dialogue: 0,0:08:24.58,0:08:29.72,Default,,0,0,0,,Rival, if there's something you can't understand, \Nread a book and conduct research.
+Dialogue: 0,0:08:30.27,0:08:33.55,Default,,0,0,0,,Right! If I consult a book, I'll be fine!
 Dialogue: 0,0:08:37.79,0:08:40.39,Default,,0,0,0,,Things that girls want...
 Dialogue: 0,0:08:41.16,0:08:43.49,Default,,0,0,0,,Big plush toys and sleek cars... {g, no clue what's after ooki}
 Dialogue: 0,0:08:44.72,0:08:46.02,Default,,0,0,0,,Good, good!
@@ -177,7 +176,7 @@ Dialogue: 0,0:08:54.89,0:08:56.20,Default,,0,0,0,,Oh, I see!
 Dialogue: 0,0:09:04.50,0:09:05.57,Default,,0,0,0,,Dear customer?
 Dialogue: 0,0:09:09.53,0:09:12.53,Default,,0,0,0,,Alright! This would be perfect!
 Dialogue: 0,0:09:14.12,0:09:15.53,Default,,0,0,0,,Dear customer!
-Dialogue: 0,0:09:15.53,0:09:18.12,Default,,0,0,0,,Gotta hurry to get the presents!
+Dialogue: 0,0:09:15.53,0:09:18.12,Default,,0,0,0,,I gotta hurry and get the presents!
 Dialogue: 0,0:09:22.37,0:09:25.84,Default,,0,0,0,,Hey you! Wait!
 Dialogue: 0,0:09:25.84,0:09:28.52,Default,,0,0,0,,It was a pretty interesting exhibit, Taru.
 Dialogue: 0,0:09:28.52,0:09:29.63,Default,,0,0,0,,Yeah!
@@ -194,7 +193,7 @@ Dialogue: 0,0:10:07.31,0:10:09.17,Default,,0,0,0,,Rival, what are you doing?
 Dialogue: 0,0:10:10.66,0:10:13.97,Default,,0,0,0,,This... Everything for Mimora-chan, my pre...
 Dialogue: 0,0:10:15.32,0:10:16.16,Default,,0,0,0,,Keep it.{/I don't want it}
 Dialogue: 0,0:10:16.87,0:10:18.85,Default,,0,0,0,,Let's go home, Taru-sama.
-Dialogue: 0,0:10:19.78,0:10:22.33,Default,,0,0,0,,Rival, take it easy, pal. {this phrase is killing me}
+Dialogue: 0,0:10:19.78,0:10:22.33,Default,,0,0,0,,Sorry about that, Rival.
 Dialogue: 0,0:10:22.33,0:10:23.14,Default,,0,0,0,,See you!
 Dialogue: 0,0:10:39.03,0:10:41.05,Default,,0,0,0,,Thief!
 Dialogue: 0,0:10:41.05,0:10:43.05,Default,,0,0,0,,Give my car back!
@@ -216,22 +215,22 @@ Dialogue: 0,0:11:55.34,0:12:01.51,Default,,0,0,0,,However, even doing it for Mim
 Dialogue: 0,0:12:01.99,0:12:02.89,Default,,0,0,0,,Yes...
 Dialogue: 0,0:12:03.83,0:12:05.79,Default,,0,0,0,,I apologize.
 Dialogue: 0,0:12:07.90,0:12:10.38,Default,,0,0,0,,As for the present for Mimora-chan...
-Dialogue: 0,0:12:11.04,0:12:16.34,Default,,0,0,0,,On your path to conquering the heart of the women you love \Nyou'll make countless mistakes.{h}
+Dialogue: 0,0:12:11.04,0:12:16.34,Default,,0,0,0,,On your path to conquering the heart\Nof the woman you love, you'll make countless mistakes.{h}
 Dialogue: 0,0:12:17.11,0:12:20.68,Default,,0,0,0,,But losing your heart \Nover each such mistake is a no-go.
 Dialogue: 0,0:12:20.68,0:12:21.86,Default,,0,0,0,,Sensei...
 Dialogue: 0,0:12:22.30,0:12:26.88,Default,,0,0,0,,If you correct your behaviour,\Nuse your head, and put in your every effort,
-Dialogue: 0,0:12:26.88,0:12:29.27,Default,,0,0,0,,someday, your dreams will come true.
+Dialogue: 0,0:12:26.88,0:12:29.27,Default,,0,0,0,,your dreams will come true someday.
 Dialogue: 0,0:12:29.92,0:12:31.52,Default,,0,0,0,,Fight on, Rival.
 Dialogue: 0,0:12:32.06,0:12:32.91,Default,,0,0,0,,Okay!
 Dialogue: 0,0:12:34.66,0:12:36.67,Default,,0,0,0,,I won't give up!
 Dialogue: 0,0:12:37.24,0:12:38.13,Default,,0,0,0,,Alright.
-Dialogue: 0,0:12:38.64,0:12:40.76,Default,,0,0,0,,Transformation belt will help!
+Dialogue: 0,0:12:38.64,0:12:40.76,Default,,0,0,0,,The transformation belt should help!
 Dialogue: 0,0:12:41.68,0:12:43.66,Default,,0,0,0,,Transformation!
 Dialogue: 0,0:12:43.66,0:12:46.84,Default,,0,0,0,,Turning Honmaru!
-Dialogue: 0,0:12:52.31,0:12:56.60,Default,,0,0,0,,With this, I can learn what Mimora-likes \Nstraight from the horse's mouth!
+Dialogue: 0,0:12:52.31,0:12:56.60,Default,,0,0,0,,With this, I can learn what Mimora likes,\Nstraight from the horse's mouth!
 Dialogue: 0,0:12:58.59,0:13:00.61,Default,,0,0,0,,Hey, Mimora-chan!
 Dialogue: 0,0:13:00.61,0:13:02.55,Default,,0,0,0,,Oh? Honmaru-sama?
-Dialogue: 0,0:13:03.00,0:13:04.90,Default,,0,0,0,,What in the world had happened?
+Dialogue: 0,0:13:03.00,0:13:04.90,Default,,0,0,0,,What in the world happened?
 Dialogue: 0,0:13:05.91,0:13:06.91,Default,,0,0,0,,No, I...
 Dialogue: 0,0:13:07.62,0:13:09.56,Default,,0,0,0,,Mimora-chan, what do you like?
 Dialogue: 0,0:13:09.56,0:13:11.64,Default,,0,0,0,,What's this question, all of a sudden?
@@ -247,21 +246,21 @@ Dialogue: 0,0:13:37.85,0:13:40.34,Default,,0,0,0,,Look, I wanna know what things
 Dialogue: 0,0:13:41.42,0:13:43.86,Default,,0,0,0,,Well, I like summer a great deal.
 Dialogue: 0,0:13:43.86,0:13:47.37,Default,,0,0,0,,That's not what I meant! \NWhat about things? Things you like?
 Dialogue: 0,0:13:47.37,0:13:49.04,Default,,0,0,0,,Let me think...
-Dialogue: 0,0:13:49.04,0:13:51.48,Default,,0,0,0,,I also like the sunflower quite a lot.
-Dialogue: 0,0:13:52.31,0:13:54.27,Default,,0,0,0,,I see. Sunflower then?
-Dialogue: 0,0:13:54.27,0:13:56.71,Default,,0,0,0,,Alright! Sunflower it is!
+Dialogue: 0,0:13:49.04,0:13:51.48,Default,,0,0,0,,I also like sunflowers quite a lot.
+Dialogue: 0,0:13:52.31,0:13:54.27,Default,,0,0,0,,I see. A sunflower, then?
+Dialogue: 0,0:13:54.27,0:13:56.71,Default,,0,0,0,,Alright! A sunflower it is!
 Dialogue: 0,0:13:58.10,0:13:59.71,Default,,0,0,0,,What was that?{g}
 Dialogue: 0,0:14:02.09,0:14:04.66,Default,,0,0,0,,I'll give Mimora-chan the best present!
-Dialogue: 0,0:14:04.66,0:14:06.80,Default,,0,0,0,,Sunflower please!
+Dialogue: 0,0:14:04.66,0:14:06.80,Default,,0,0,0,,One sunflower, please!
 Dialogue: 0,0:14:07.80,0:14:09.08,Default,,0,0,0,,Welcome!
-Dialogue: 0,0:14:10.06,0:14:11.50,Default,,0,0,0,,Did you say sunflower?
+Dialogue: 0,0:14:10.06,0:14:11.50,Default,,0,0,0,,Did you say a sunflower?
 Dialogue: 0,0:14:11.50,0:14:12.24,Default,,0,0,0,,Yes!
 Dialogue: 0,0:14:12.72,0:14:14.40,Default,,0,0,0,,I wonder if we have any by now.
 Dialogue: 0,0:14:14.40,0:14:16.59,Default,,0,0,0,,Manager, do we have any sunflowers?
 Dialogue: 0,0:14:16.59,0:14:18.60,Default,,0,0,0,,Eh? What? Sunflowers in the win—
 Dialogue: 0,0:14:19.06,0:14:21.50,Default,,0,0,0,,Ah! It's you! Back at it already?!
 Dialogue: 0,0:14:22.88,0:14:24.72,Default,,0,0,0,,No!
-Dialogue: 0,0:14:25.19,0:14:28.86,Default,,0,0,0,,"Sunflowers in the winter" my butt!\NDon't you ever dare to come!
+Dialogue: 0,0:14:25.19,0:14:28.86,Default,,0,0,0,,"Sunflowers in the winter," my butt!\NDon't you dare come back again!
 Dialogue: 0,0:14:30.28,0:14:31.74,Default,,0,0,0,,Ouch!
 Dialogue: 0,0:14:33.45,0:14:37.19,Default,,0,0,0,,That's right. Sunflowers only grow in the summer.
 Dialogue: 0,0:14:37.19,0:14:41.36,Default,,0,0,0,,Alright! In that case, I'll search far and wide \Nto bring you some sunflowers! {/through the world}
@@ -269,7 +268,7 @@ Dialogue: 0,0:14:45.86,0:14:49.28,Default,,0,0,0,,Sunflowers, sunflowers... Wher
 Dialogue: 0,0:15:09.65,0:15:13.62,Default,,0,0,0,,Found them! The sunflowers!
 Dialogue: 0,0:15:26.20,0:15:29.22,Default,,0,0,0,,Taru-sama, it's so cold outside these days.
 Dialogue: 0,0:15:29.22,0:15:30.66,Default,,0,0,0,,Oh it's snowing!
-Dialogue: 0,0:15:30.66,0:15:32.84,Default,,0,0,0,,My! It's snowing indeed.
+Dialogue: 0,0:15:30.66,0:15:32.84,Default,,0,0,0,,Oh my! It's snowing indeed.
 Dialogue: 0,0:15:34.00,0:15:35.14,Default,,0,0,0,,Freezing! {g, tlc}{15:34: I'm hearing "ちべたい"\NThis might just be a corruption of "冷たい (つめたい)"}
 Dialogue: 0,0:15:35.68,0:15:37.08,Default,,0,0,0,,So beautiful...
 Dialogue: 0,0:15:37.08,0:15:38.63,Default,,0,0,0,,Yay! Snowing, snowing!
@@ -277,13 +276,13 @@ Dialogue: 0,0:15:38.63,0:15:40.25,Default,,0,0,0,,Taru-sama, that's so like you!
 Dialogue: 0,0:15:45.52,0:15:47.05,Default,,0,0,0,,I did it!
 Dialogue: 0,0:15:47.05,0:15:50.07,Default,,0,0,0,,This will delight Mimora-chan to no end!
 Dialogue: 0,0:15:51.57,0:15:53.14,Default,,0,0,0,,So cold...
-Dialogue: 0,0:15:55.64,0:15:57.02,Default,,0,0,0,,Gotta present it soon!{/give}
+Dialogue: 0,0:15:55.64,0:15:57.02,Default,,0,0,0,,I gotta present it soon!{/give}
 Dialogue: 0,0:15:57.02,0:15:58.49,Default,,0,0,0,,Alright...
 Dialogue: 0,0:16:00.48,0:16:03.21,Default,,0,0,0,,Ah! It's no good.
 Dialogue: 0,0:16:03.21,0:16:06.19,Default,,0,0,0,,Flying through the sky makes it scatter!
-Dialogue: 0,0:16:06.19,0:16:08.95,Default,,0,0,0,,Gotta hurry. Mimora-chan!
+Dialogue: 0,0:16:06.19,0:16:08.95,Default,,0,0,0,,I gotta hurry. Mimora-chan!
 Dialogue: 0,0:16:09.95,0:16:10.95,Default,,0,0,0,,Please wait.
-Dialogue: 0,0:16:15.09,0:16:16.77,Default,,0,0,0,,Went out to play?
+Dialogue: 0,0:16:15.09,0:16:16.77,Default,,0,0,0,,She went out to play?
 Dialogue: 0,0:16:16.77,0:16:20.21,Default,,0,0,0,,Goddammit! It's that Taru again...
 Dialogue: 0,0:16:23.88,0:16:26.21,Default,,0,0,0,,Sunflower, will you hang on?
 Dialogue: 0,0:16:26.77,0:16:28.90,Default,,0,0,0,,Mimora-chan, where are you?
@@ -310,7 +309,7 @@ Dialogue: 0,0:17:15.57,0:17:17.37,Default,,0,0,0,,Where are you?
 Dialogue: 0,0:17:36.03,0:17:37.52,Default,,0,0,0,,No... My sunflower!
 Dialogue: 0,0:17:55.22,0:17:56.62,Default,,0,0,0,,Thank god...
 Dialogue: 0,0:17:56.62,0:17:57.79,Default,,0,0,0,,You're safe.
-Dialogue: 0,0:17:58.28,0:18:01.23,Default,,0,0,0,,Let's hurry up to find Mimora-chan.
+Dialogue: 0,0:17:58.28,0:18:01.23,Default,,0,0,0,,Let's hurry up and find Mimora-chan.
 Dialogue: 0,0:18:04.89,0:18:07.16,Default,,0,0,0,,You're so good at it, Taru-sama! Here.
 Dialogue: 0,0:18:07.58,0:18:09.11,Default,,0,0,0,,Why, you!
 Dialogue: 0,0:18:09.61,0:18:11.16,Default,,0,0,0,,You wanna play serious?!{g}
@@ -327,7 +326,7 @@ Dialogue: 0,0:18:38.61,0:18:39.72,Default,,0,0,0,,What is it?
 Dialogue: 0,0:18:41.18,0:18:42.68,Default,,0,0,0,,A sunflower.
 Dialogue: 0,0:18:43.63,0:18:44.48,Default,,0,0,0,,This is...
 Dialogue: 0,0:18:44.98,0:18:48.14,Default,,0,0,0,,Mimora-chan's favorite, the sunflower!
-Dialogue: 0,0:18:48.14,0:18:50.33,Default,,0,0,0,,That's one hella tattered sunflower.
+Dialogue: 0,0:18:48.14,0:18:50.33,Default,,0,0,0,,That's one tattered sunflower.
 Dialogue: 0,0:18:50.33,0:18:53.25,Default,,0,0,0,,Why'd you do such a cruel thing to it, Rival? {no clue what she means by "what a pitiful thing doing"}
 Dialogue: 0,0:18:53.25,0:18:55.57,Default,,0,0,0,,Sunflowers cannot live in the cold! {g, no clue what's this gatteru}
 Dialogue: 0,0:18:55.57,0:18:58.53,Default,,0,0,0,,Return it to where you found it at once!
@@ -337,7 +336,7 @@ Dialogue: 0,0:19:03.46,0:19:06.64,Default,,0,0,0,,But it's a present...
 Dialogue: 0,0:19:13.00,0:19:15.34,Default,,0,0,0,,I feel kinda sorry for Rival.
 Dialogue: 0,0:19:16.15,0:19:18.48,Default,,0,0,0,,He went to all the trouble of bringing it here.
 Dialogue: 0,0:19:18.48,0:19:21.32,Default,,0,0,0,,Mimora, accept the sunflower.{h}
-Dialogue: 0,0:19:21.32,0:19:24.62,Default,,0,0,0,,My! Taru-sama is always so considerate!
+Dialogue: 0,0:19:21.32,0:19:24.62,Default,,0,0,0,,Oh my! Taru-sama is always so considerate!
 Dialogue: 0,0:19:24.62,0:19:25.86,Default,,0,0,0,,I understand.
 Dialogue: 0,0:19:25.86,0:19:28.96,Default,,0,0,0,,If Taru-sama says so, I accept it.{/take}
 Dialogue: 0,0:19:28.96,0:19:30.71,Default,,0,0,0,,Good for you, Rival.
@@ -376,7 +375,7 @@ Dialogue: 0,0:21:42.76,0:21:43.45,Default,,0,0,0,,Oh?
 Dialogue: 0,0:21:44.48,0:21:46.38,Default,,0,0,0,,Can't we skip just today?
 Dialogue: 0,0:21:46.38,0:21:47.97,Default,,0,0,0,,Rival! Come see this.
 Dialogue: 0,0:21:47.97,0:21:48.41,Default,,0,0,0,,Uh?
-Dialogue: 0,0:21:48.41,0:21:51.10,Default,,0,0,0,,Come on, move it! \NYou need to see this.
+Dialogue: 0,0:21:48.41,0:21:51.10,Default,,0,0,0,,Come on, hurry! \NYou need to see this.
 Dialogue: 0,0:21:52.08,0:21:53.38,Default,,0,0,0,,What is it?
 Dialogue: 0,0:21:55.34,0:21:57.80,Default,,0,0,0,,You did it, Rival.
 Dialogue: 0,0:21:57.80,0:22:03.77,Sign,,0,0,0,,{\c&HA7788B&\3c&HBECBBE&\fs30}I'm sorry, Rival🖤 \NThanks for the sunflower!
@@ -386,7 +385,7 @@ Dialogue: 0,0:22:07.36,0:22:09.70,Default,,0,0,0,,Thanks for the sunflower...
 Dialogue: 0,0:22:10.82,0:22:12.31,Default,,0,0,0,,Mimora-chan."
 Dialogue: 0,0:22:19.88,0:22:22.00,Default,,0,0,0,,Aren't you glad, Rival?
 Dialogue: 0,0:22:22.00,0:22:23.61,Default,,0,0,0,,Yes, sensei!
-Dialogue: 0,0:22:40.13,0:22:42.47,Default,,0,0,0,,Behold myself - the Great Magician Ria Kinakãmo.
+Dialogue: 0,0:22:40.13,0:22:42.47,Default,,0,0,0,,Behold, myself - the Great Magician Ria Kinakãmo.
 Dialogue: 0,0:22:42.47,0:22:44.88,Default,,0,0,0,,I'll make your one wish come true.
 Dialogue: 0,0:22:44.88,0:22:47.35,Default,,0,0,0,,This is a story from a long time ago.
 Dialogue: 0,0:22:47.35,0:22:49.91,Default,,0,0,0,,Though it started from a coincidence for Ria and Gosuke, {g}
