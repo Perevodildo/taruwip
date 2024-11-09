@@ -11,13 +11,12 @@ YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio File: [Renascent] Magical Taruruuto-kun (1990) - 76 [DVD] [C550959C].mkv
 Video File: [Renascent] Magical Taruruuto-kun (1990) - 76 [DVD] [C550959C].mkv
-Keyframes File: tarukf/taru76_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.367377
-Video Zoom Percent: 1.875000
-Scroll Position: 18
-Active Line: 42
-Video Position: 4448
+Video Zoom Percent: 1.250000
+Scroll Position: 324
+Active Line: 359
+Video Position: 33078
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,7 +62,7 @@ Dialogue: 0,0:02:35.23,0:02:36.59,Default,,0,0,0,,You don't call that a drive! {
 Dialogue: 0,0:02:36.59,0:02:38.05,Default,,0,0,0,,Oh? Look at that!
 Dialogue: 0,0:02:38.05,0:02:40.06,Default,,0,0,0,,Oh my, what's this?{g}
 Dialogue: 0,0:02:40.06,0:02:43.83,Default,,0,0,0,,Howdy, everyone! \NYay! It's like we're celebrities! {g, no clue what's last word, tlc}{2:40: I'm hearing "うっす、皆！わい！俺たち人気者"\NThis is what the last word sounds to me: https://jisho.org/word/%E4%BA%BA%E6%B0%97%E8%80%85\NNot sure how it would fit in this context though.}
-Dialogue: 0,0:02:43.83,0:02:45.62,Default,,0,0,0,,No we're not. \NThey just laugh at us.
+Dialogue: 0,0:02:43.83,0:02:45.62,Default,,0,0,0,,No we're not. \NThey're just laughing at us.
 Dialogue: 0,0:02:45.62,0:02:48.08,Default,,0,0,0,,Can't you ride it any faster, Taru?
 Dialogue: 0,0:02:48.08,0:02:50.78,Default,,0,0,0,,Sure! Tricycle-kun, let's go fasteru-ru-ru.
 Dialogue: 0,0:02:50.78,0:02:52.73,Default,,0,0,0,,Alright, I'm starting! {g}
@@ -71,7 +70,7 @@ Dialogue: 0,0:02:52.73,0:02:54.32,Default,,0,0,0,,Starting! {g}
 Dialogue: 0,0:03:04.14,0:03:05.14,Sign,,0,0,0,,{\fs60\c&H30B1C9&\bord1\pos(313.17,403.73)}Waah
 Dialogue: 0,0:03:36.86,0:03:39.51,Default,,0,0,0,,What do you think of my driving, Honmaru?
 Dialogue: 0,0:03:39.51,0:03:41.08,Default,,0,0,0,,Quite impressive, Taru.
-Dialogue: 0,0:03:43.79,0:03:45.54,Default,,0,0,0,,I thought I'd die there.
+Dialogue: 0,0:03:43.79,0:03:45.54,Default,,0,0,0,,I almost died there.
 Dialogue: 0,0:03:45.54,0:03:48.93,Default,,0,0,0,,Alright, Honmaru, another round of cycling!{g}
 Dialogue: 0,0:03:48.93,0:03:50.00,Default,,0,0,0,,What's the matter, Taru?
 Dialogue: 0,0:03:50.00,0:03:51.64,Default,,0,0,0,,They're beating Neyo up!
@@ -82,7 +81,7 @@ Dialogue: 0,0:04:00.78,0:04:05.08,Default,,0,0,0,,Got it, Honmaru. Gonna go easy
 Dialogue: 0,0:04:05.08,0:04:06.44,Default,,0,0,0,,Ready!
 Dialogue: 0,0:04:06.44,0:04:07.66,Default,,0,0,0,,Come on, you!
 Dialogue: 0,0:04:07.66,0:04:09.30,Default,,0,0,0,,Neyo!
-Dialogue: 0,0:04:09.30,0:04:11.81,Default,,0,0,0,,Hey, hey, is that all you got?{g}
+Dialogue: 0,0:04:09.30,0:04:11.81,Default,,0,0,0,,Hey, is that all you got?{g}
 Dialogue: 0,0:04:15.33,0:04:16.56,Default,,0,0,0,,Neyo!
 Dialogue: 0,0:04:16.56,0:04:17.90,Default,,0,0,0,,Tricycle Gun, fire!
 Dialogue: 0,0:04:18.11,0:04:19.36,Default,,0,0,0,,Okay!
@@ -91,25 +90,25 @@ Dialogue: 0,0:04:33.27,0:04:37.39,Default,,0,0,0,,You start feeling the same way
 Dialogue: 0,0:04:37.39,0:04:37.97,Default,,0,0,0,,Shooting!
 Dialogue: 0,0:04:37.97,0:04:40.47,Default,,0,0,0,,Hey! Hands off Neyo, you bastards!
 Dialogue: 0,0:04:42.08,0:04:42.93,Default,,0,0,0,,Honmaru?
-Dialogue: 0,0:04:43.41,0:04:46.31,Default,,0,0,0,,Honmaru kick!!
+Dialogue: 0,0:04:43.41,0:04:46.31,Default,,0,0,0,,Honmaru Kick!
 Dialogue: 0,0:04:45.56,0:04:45.60,Sign,,0,0,0,,{\c&HB1BCC1&\bord2\xshad-5\yshad4\4c&H9A4E81&\fs80}Wham!{g}
 Dialogue: 0,0:04:50.56,0:04:52.31,Default,,0,0,0,,What's this kid's problem?
-Dialogue: 0,0:04:53.40,0:04:54.82,Default,,0,0,0,,Well ain't it interesting?
+Dialogue: 0,0:04:53.40,0:04:54.82,Default,,0,0,0,,Well, ain't it interesting?
 Dialogue: 0,0:04:54.82,0:04:57.18,Default,,0,0,0,,You got some business with us, kid?
 Dialogue: 0,0:04:57.18,0:04:59.29,Default,,0,0,0,,Doncha look down on us!
 Dialogue: 0,0:04:59.29,0:05:00.94,Default,,0,0,0,,Did you come here to get killed?{g}
-Dialogue: 0,0:05:00.94,0:05:03.72,Default,,0,0,0,,Shoulda keep your mouth shut \Nand flee while you had the chance.{g}
-Dialogue: 0,0:05:03.72,0:05:06.79,Default,,0,0,0,,What an imbecile you must be \Nmake an attempt on us!
+Dialogue: 0,0:05:00.94,0:05:03.72,Default,,0,0,0,,Shoulda kept your mouth shut \Nand fled while you had the chance.{g}
+Dialogue: 0,0:05:03.72,0:05:06.79,Default,,0,0,0,,You must be an imbecile for\Nattempting to take us on!
 Dialogue: 0,0:05:08.91,0:05:10.12,Default,,0,0,0,,Wait.
 Dialogue: 0,0:05:10.46,0:05:13.49,Default,,0,0,0,,This just got personal, you punk. {not even trying to translate this, just writing whatever comes to mind first, I'm allergic to delinquent anime kthx}
 Dialogue: 0,0:05:13.49,0:05:17.59,Default,,0,0,0,,What kind of trick did you use \Nto bring him into this state?
-Dialogue: 0,0:05:19.38,0:05:22.44,Default,,0,0,0,,I can't tell what kind of shit \Nyou are until I measure by feel.
+Dialogue: 0,0:05:19.38,0:05:22.44,Default,,0,0,0,,I can't tell what kind of shit \Nyou are until I measure by feeling.
 Dialogue: 0,0:05:22.90,0:05:25.39,Default,,0,0,0,,Because of that, I often end up overdoing it.
 Dialogue: 0,0:05:25.86,0:05:28.85,Default,,0,0,0,,But even then, you're not getting any mercy, kid.
 Dialogue: 0,0:05:29.74,0:05:32.08,Default,,0,0,0,,Hey, what's the matter? Why aintcha attacking?!
 Dialogue: 0,0:05:33.61,0:05:35.26,Default,,0,0,0,,Sure is an unlucky little shit.
-Dialogue: 0,0:05:35.26,0:05:38.38,Default,,0,0,0,,Those caught by boss never return home safely.
-Dialogue: 0,0:05:38.38,0:05:43.80,Default,,0,0,0,,Well, he has some balls to bark at us, \Neven knowing we occupy this area. Gotta respect that.
+Dialogue: 0,0:05:35.26,0:05:38.38,Default,,0,0,0,,Those caught by the boss never return home safely.
+Dialogue: 0,0:05:38.38,0:05:43.80,Default,,0,0,0,,Well, he has some balls to bark at us, \Neven knowing we occupy this area. I gotta respect that.
 Dialogue: 0,0:05:46.04,0:05:49.59,Default,,0,0,0,,Those guys are practicing karate! \NMoreover, there's five of them.
 Dialogue: 0,0:05:49.59,0:05:51.56,Default,,0,0,0,,I have no idea what approach to use.
 Dialogue: 0,0:05:51.93,0:05:52.84,Default,,0,0,0,,Can I even win?
@@ -162,7 +161,7 @@ Dialogue: 0,0:08:28.70,0:08:29.84,Default,,0,0,0,,Honmaru.
 Dialogue: 0,0:08:29.84,0:08:30.63,Default,,0,0,0,,Taru.
 Dialogue: 0,0:08:33.16,0:08:34.62,Default,,0,0,0,,I was in a tight spot.
 Dialogue: 0,0:08:35.01,0:08:35.87,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:08:39.38,0:08:42.51,Default,,0,0,0,,And sorry I said some nasty stuff about you saving me.
+Dialogue: 0,0:08:39.38,0:08:42.51,Default,,0,0,0,,Sorry for having said some\Nnasty stuff about you saving me.
 Dialogue: 0,0:08:43.18,0:08:45.52,Default,,0,0,0,,Don't mention it, no offense taken.
 Dialogue: 0,0:08:45.52,0:08:47.26,Default,,0,0,0,,No offense, Neyo! {g}
 Dialogue: 0,0:08:48.00,0:08:48.88,Default,,0,0,0,,Really?
@@ -179,15 +178,15 @@ Dialogue: 0,0:09:14.66,0:09:17.09,Default,,0,0,0,,Yay! Neyo lost, lost!
 Dialogue: 0,0:09:18.22,0:09:19.43,Default,,0,0,0,,I lost?
 Dialogue: 0,0:09:19.43,0:09:20.10,Default,,0,0,0,,Right.
 Dialogue: 0,0:09:20.51,0:09:21.70,Default,,0,0,0,,That's true.
-Dialogue: 0,0:09:22.83,0:09:27.24,Default,,0,0,0,,To them... So frustrating! \NI couldn't stand my ground at all. {}
-Dialogue: 0,0:09:27.24,0:09:33.55,Default,,0,0,0,,Neyo, listen. For all your toughness, getting in a fight against five high school students who practice karate is a no-go.
+Dialogue: 0,0:09:22.83,0:09:27.24,Default,,0,0,0,,To them... It's so frustrating! \NI couldn't stand my ground at all. {}
+Dialogue: 0,0:09:27.24,0:09:33.55,Default,,0,0,0,,Neyo, listen. For all your toughness, getting in a fight against\Nfive high school students who practice karate is a no-go.
 Dialogue: 0,0:09:33.55,0:09:35.13,Default,,0,0,0,,I know that.
 Dialogue: 0,0:09:35.51,0:09:37.65,Default,,0,0,0,,But isn't it frustrating?
 Dialogue: 0,0:09:37.65,0:09:40.83,Default,,0,0,0,,They threaten little children \Nto extort them for pocket money.
 Dialogue: 0,0:09:40.83,0:09:44.66,Default,,0,0,0,,I can't stand it! \NBe it even all five of them, I'll show them one day!
 Dialogue: 0,0:09:45.08,0:09:46.56,Default,,0,0,0,,One day, I will...
-Dialogue: 0,0:09:47.46,0:09:51.15,Default,,0,0,0,,Neyo, if it's frustrating, \Nyou should take a special training to win.
-Dialogue: 0,0:09:51.15,0:09:53.30,Default,,0,0,0,,Yeah. That's right. I need a special training.{u}
+Dialogue: 0,0:09:47.46,0:09:51.15,Default,,0,0,0,,Neyo, if it's frustrating, \Nyou should take special training to win.
+Dialogue: 0,0:09:51.15,0:09:53.30,Default,,0,0,0,,Yeah. That's right. I need special training.{u}
 Dialogue: 0,0:09:53.30,0:09:55.62,Default,,0,0,0,,You could ask Nezo for guidance.
 Dialogue: 0,0:09:55.62,0:09:58.57,Default,,0,0,0,,He's away for practices \Nand won't be back for a while.
 Dialogue: 0,0:09:58.57,0:10:01.85,Default,,0,0,0,,Well, I can take care of myself. \NDon't worry.
@@ -199,7 +198,7 @@ Dialogue: 0,0:10:13.69,0:10:15.08,Default,,0,0,0,,You're such a kind child.
 Dialogue: 0,0:10:15.08,0:10:16.54,Default,,0,0,0,,Neyo, do your best!
 Dialogue: 0,0:10:16.54,0:10:17.10,Default,,0,0,0,,Okay.
 Dialogue: 0,0:10:17.99,0:10:22.51,Default,,0,0,0,,I see. She got into a fight trying to help children.
-Dialogue: 0,0:10:22.51,0:10:25.06,Default,,0,0,0,,The real you is a really nice girl, Neyo.
+Dialogue: 0,0:10:22.51,0:10:25.06,Default,,0,0,0,,Your real self is extremely nice, Neyo.
 Dialogue: 0,0:10:26.08,0:10:27.97,Default,,0,0,0,,No, I mean...
 Dialogue: 0,0:10:27.97,0:10:30.57,Default,,0,0,0,,Why are you always acting so stiff? {to act tough; to bluff; to be defiant; to be unruly}
 Dialogue: 0,0:10:32.70,0:10:34.00,Default,,0,0,0,,But think of it...
@@ -217,9 +216,9 @@ Dialogue: 0,0:11:14.40,0:11:15.18,Default,,0,0,0,,Neyo...
 Dialogue: 0,0:11:18.52,0:11:20.33,Default,,0,0,0,,Nezo told me.
 Dialogue: 0,0:11:20.87,0:11:24.76,Default,,0,0,0,,Actually, I'm just a crybaby \Nwho can't stand staying on her own. {nc why'd he say that}
 Dialogue: 0,0:11:26.64,0:11:29.26,Default,,0,0,0,,Even though I never showed him that side of me. {h}
-Dialogue: 0,0:11:30.71,0:11:35.61,Default,,0,0,0,,After mom died, before I knew it, \NI developed a habit of crying silently.
+Dialogue: 0,0:11:30.71,0:11:35.61,Default,,0,0,0,,After my mom died, before I knew it, \NI developed a habit of crying silently.
 Dialogue: 0,0:11:39.80,0:11:42.78,Default,,0,0,0,,But Nezo still managed to see right through me.
-Dialogue: 0,0:11:49.98,0:11:50.98,Default,,0,0,0,,I too
+Dialogue: 0,0:11:49.98,0:11:50.98,Default,,0,0,0,,I too,
 Dialogue: 0,0:11:52.07,0:11:54.93,Default,,0,0,0,,want to become as strong as him, \Nwhatever it takes. {no clue what donna ni ika means}
 Dialogue: 0,0:11:55.46,0:11:57.74,Default,,0,0,0,,Both in body and in mind.
 Dialogue: 0,0:11:58.26,0:11:59.36,Default,,0,0,0,,Neyo...
@@ -232,8 +231,8 @@ Dialogue: 0,0:12:14.12,0:12:15.71,Default,,0,0,0,,It's exactly as Taru says.
 Dialogue: 0,0:12:25.02,0:12:27.46,Default,,0,0,0,,Why am I blabbering with you about trifles?
 Dialogue: 0,0:12:27.46,0:12:28.84,Default,,0,0,0,,My magic!
 Dialogue: 0,0:12:28.84,0:12:30.66,Default,,0,0,0,,Oh no! Ten minutes ran out.
-Dialogue: 0,0:12:32.00,0:12:32.94,Default,,0,0,0,,Honmaru!
-Dialogue: 0,0:12:34.77,0:12:37.72,Default,,0,0,0,,If you spill what I told you today, \Nthey won't find your body!
+Dialogue: 0,0:12:32.00,0:12:33.29,Default,,0,0,0,,Honmaru!
+Dialogue: 0,0:12:34.77,0:12:37.72,Default,,0,0,0,,Spill anything I told you today,\Nand nobody will ever find you!
 Dialogue: 0,0:12:37.72,0:12:38.36,Default,,0,0,0,,Alright...
 Dialogue: 0,0:12:38.82,0:12:40.86,Default,,0,0,0,,If you as much as think about spilling it...
 Dialogue: 0,0:12:43.26,0:12:44.74,Default,,0,0,0,,Better remember this well!
@@ -249,7 +248,7 @@ Dialogue: 0,0:13:44.94,0:13:46.26,Default,,0,0,0,,Are you kidding me?!
 Dialogue: 0,0:13:47.97,0:13:48.02,Sign,,0,0,0,,{\bord1\blur\c&HE380C5&\fs40}Don't you pause to peek!! {止めて見てんじゃねえよ - hope she means this}
 Dialogue: 0,0:13:48.06,0:13:48.22,Sign,,0,0,0,,{\c&H28A9C0&\3c&H7511B9&\fs60}Slip! {g}
 Dialogue: 0,0:13:49.22,0:13:51.69,Default,,0,0,0,,Come on! What's wrong with you?
-Dialogue: 0,0:13:51.69,0:13:52.94,Default,,0,0,0,,Dammit.
+Dialogue: 0,0:13:51.69,0:13:52.94,Default,,0,0,0,,Dammit...
 Dialogue: 0,0:13:54.08,0:13:55.04,Default,,0,0,0,,Get this!
 Dialogue: 0,0:13:56.00,0:13:59.04,Default,,0,0,0,,Did you really hope to defeat me with that? \NDon't make me laugh!
 Dialogue: 0,0:13:59.04,0:14:01.00,Default,,0,0,0,,Move it, move it!
@@ -259,7 +258,7 @@ Dialogue: 0,0:14:12.01,0:14:15.42,Default,,0,0,0,,Your punches bounce off me, yo
 Dialogue: 0,0:14:18.19,0:14:19.88,Default,,0,0,0,,Hey, Neyo!
 Dialogue: 0,0:14:20.96,0:14:21.97,Default,,0,0,0,,Are...
 Dialogue: 0,0:14:22.40,0:14:23.59,Default,,0,0,0,,you kidding me?!
-Dialogue: 0,0:14:23.59,0:14:27.26,Default,,0,0,0,,You're the one kidding here! \NDespite being such a wimp too!{g}
+Dialogue: 0,0:14:23.59,0:14:27.26,Default,,0,0,0,,You're the one kidding here,\Ndespite being such a wimp too!{g}
 Dialogue: 0,0:14:29.07,0:14:29.98,Default,,0,0,0,,Asshole!
 Dialogue: 0,0:14:30.66,0:14:34.22,Default,,0,0,0,,What's wrong? \NCan't you put up anything better than that?!
 Dialogue: 0,0:14:37.36,0:14:40.12,Default,,0,0,0,,Something's off with Honmaru.
@@ -267,9 +266,9 @@ Dialogue: 0,0:14:56.33,0:14:58.39,Default,,0,0,0,,Hey, what's with all the bruis
 Dialogue: 0,0:14:58.39,0:15:00.31,Default,,0,0,0,,That stench too!
 Dialogue: 0,0:15:00.31,0:15:02.06,Default,,0,0,0,,Got into a fight again, didn't you?
 Dialogue: 0,0:15:02.06,0:15:03.34,Default,,0,0,0,,Zakenja-san...
-Dialogue: 0,0:15:03.34,0:15:07.55,Default,,0,0,0,,Still, who was that guy, \Nstrong enough to rough her up that badly?
+Dialogue: 0,0:15:03.34,0:15:07.55,Default,,0,0,0,,Still, what kind of guy is strong \Nenough to rough her up that badly?
 Dialogue: 0,0:15:07.55,0:15:08.90,Default,,0,0,0,,Good question!
-Dialogue: 0,0:15:08.90,0:15:11.32,Default,,0,0,0,,Hey! Who was it who did this to you? \NCome on, spill it!
+Dialogue: 0,0:15:08.90,0:15:11.32,Default,,0,0,0,,Hey! Who was it that did this to you? \NCome on, spill it!
 Dialogue: 0,0:15:11.32,0:15:14.56,Default,,0,0,0,,Either way, these wounds need treatment{ quickly}. \NCan I walk you to the infirmary?
 Dialogue: 0,0:15:14.56,0:15:18.02,Default,,0,0,0,,Iyona-san, please let me help as well, \Nto the best of my capabilities.
 Dialogue: 0,0:15:18.54,0:15:21.86,Default,,0,0,0,,Deserting an injured lady \Nis an affront to me, the... {g}
@@ -290,10 +289,10 @@ Dialogue: 0,0:16:28.97,0:16:33.24,Default,,0,0,0,,Honmaru! Honmaru!
 Dialogue: 0,0:16:36.06,0:16:38.16,Default,,0,0,0,,Honmaru!
 Dialogue: 0,0:16:48.42,0:16:49.50,Default,,0,0,0,,Neyo!
 Dialogue: 0,0:16:50.70,0:16:52.09,Default,,0,0,0,,Come on!{g}
-Dialogue: 0,0:16:52.09,0:16:55.08,Default,,0,0,0,,I'm {\i1}so{\i0} fed up with your act! {g}
+Dialogue: 0,0:16:52.09,0:16:55.08,Default,,0,0,0,,I'm {\i1}so{\i0}{\i0\fsp3} {\fsp0}fed up with your act! {g}
 Dialogue: 0,0:16:55.08,0:16:59.18,Default,,0,0,0,,To battle! To battle!
 Dialogue: 0,0:16:59.83,0:17:00.46,Default,,0,0,0,,Are you kidding me?!
-Dialogue: 0,0:17:00.46,0:17:01.83,Default,,0,0,0,,This, this, this!
+Dialogue: 0,0:17:00.46,0:17:02.07,Default,,0,0,0,,Take this, and this! And this!
 Dialogue: 0,0:17:03.73,0:17:04.96,Default,,0,0,0,,Still too weak! {g}
 Dialogue: 0,0:17:05.88,0:17:07.76,Default,,0,0,0,,To battle!
 Dialogue: 0,0:17:09.84,0:17:11.34,Default,,0,0,0,,Honmaru.
@@ -312,10 +311,10 @@ Dialogue: 0,0:18:09.04,0:18:10.25,Default,,0,0,0,,Come on, let's go now.
 Dialogue: 0,0:18:10.92,0:18:11.46,Default,,0,0,0,,Sure!
 Dialogue: 0,0:18:12.38,0:18:13.57,Default,,0,0,0,,I beg your pardon.
 Dialogue: 0,0:18:16.03,0:18:16.92,Default,,0,0,0,,Clumsy!
-Dialogue: 0,0:18:16.92,0:18:20.72,Default,,0,0,0,,Going to the public bathouse once in a while \Nis fun too, right, right? {tlc as well, not sure if it's asette she says and how it can be good}{18:16: I'm hearing "たまには銭湯も楽しいですわよ、ね、ね？"\Nhttps://jisho.org/word/%E9%8A%AD%E6%B9%AF\NA loose TL would be something like "Going to the public bathouse once in a while is fun too, right, right?" - Aurelius}
-Dialogue: 0,0:18:17.93,0:18:18.53,Default,,0,0,0,,{\3c&H1A3F00&}Potty! {g}
-Dialogue: 0,0:18:19.14,0:18:20.00,Default,,0,0,0,,{\3c&H1A3F00&}Waste!{g}
-Dialogue: 0,0:18:20.00,0:18:20.72,Default,,0,0,0,,{\3c&H1A3F00&}Lowbrow! {g}
+Dialogue: 0,0:18:16.92,0:18:20.72,Default,,0,0,0,,Going to the public bathhouse once in a while \Nis fun too, isn't it? Right? {tlc as well, not sure if it's asette she says and how it can be good}{18:16: I'm hearing "たまには銭湯も楽しいですわよ、ね、ね？"\Nhttps://jisho.org/word/%E9%8A%AD%E6%B9%AF\NA loose TL would be something like "Going to the public bathouse once in a while is fun too, right, right?" - Aurelius}
+Dialogue: 0,0:18:17.93,0:18:18.53,Default,,0,0,10,,{\an8\3c&H1A3F00&}Potty! {g}
+Dialogue: 0,0:18:19.14,0:18:20.00,Default,,0,0,10,,{\an8\3c&H1A3F00&}Waste!{g}
+Dialogue: 0,0:18:20.00,0:18:20.72,Default,,0,0,10,,{\an8\3c&H1A3F00&}Lowbrow! {g}
 Dialogue: 0,0:18:22.50,0:18:23.50,Default,,0,0,0,,Honmaru...
 Dialogue: 0,0:18:29.38,0:18:30.82,Default,,0,0,0,,Shit...
 Dialogue: 0,0:18:40.27,0:18:43.48,Default,,0,0,0,,You've learned some powerful punches, haven't you?
@@ -378,11 +377,11 @@ Dialogue: 0,0:22:21.07,0:22:23.55,Default,,0,0,0,,Tsk. Are you kidding me?
 Dialogue: 0,0:22:24.55,0:22:25.61,Default,,0,0,0,,One day,
 Dialogue: 0,0:22:26.45,0:22:29.51,Default,,0,0,0,,I hope you feel strong enough to return to your true self, {g}
 Dialogue: 0,0:22:30.37,0:22:31.60,Default,,0,0,0,,Neyo.
-Dialogue: 0,0:22:39.21,0:22:42.88,Default,,0,0,0,,I'm sleepy! And I can't finish the apron, my homework!
-Dialogue: 0,0:22:42.88,0:22:44.90,Default,,0,0,0,,Really, what should I do?
+Dialogue: 0,0:22:39.21,0:22:42.88,Default,,0,0,0,,I'm sleepy! And I can't finish my homework—the apron!
+Dialogue: 0,0:22:42.88,0:22:44.90,Default,,0,0,0,,For real, what should I do?
 Dialogue: 0,0:22:44.90,0:22:47.07,Default,,0,0,0,,Hey, Taru, do something, please!
 Dialogue: 0,0:22:48.35,0:22:49.85,Default,,0,0,0,,Sleeping, huh?
-Dialogue: 0,0:22:49.85,0:22:53.50,Default,,0,0,0,,Ah! They'll make fun of me in the class tomorrow!
+Dialogue: 0,0:22:49.85,0:22:53.50,Default,,0,0,0,,Ah! They'll make fun of me in class tomorrow!
 Dialogue: 0,0:22:53.50,0:22:55.85,Default,,0,0,0,,Even so, I'm still sleepy...
 Dialogue: 0,0:22:55.85,0:22:59.74,Default,,0,0,0,,Magical Taruruuto-kun: \NCalling on Hardworking Fanatics! {必殺シゴト人参上!}
 Dialogue: 0,0:22:59.27,0:23:02.24,Sign,,0,0,0,,Episode 77 \NCalling on Hardworking Pixiervants! {必殺シゴト人参上!}
