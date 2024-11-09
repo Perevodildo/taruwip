@@ -14,9 +14,9 @@ Video File: [Renascent] Magical Taruruuto-kun (1990) - 76 [DVD] [C550959C].mkv
 Video AR Mode: 4
 Video AR Value: 1.367377
 Video Zoom Percent: 1.250000
-Scroll Position: 324
-Active Line: 359
-Video Position: 33078
+Scroll Position: 192
+Active Line: 222
+Video Position: 19857
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -235,6 +235,7 @@ Dialogue: 0,0:12:32.00,0:12:33.29,Default,,0,0,0,,Honmaru!
 Dialogue: 0,0:12:34.77,0:12:37.72,Default,,0,0,0,,Spill anything I told you today,\Nand nobody will ever find you!
 Dialogue: 0,0:12:37.72,0:12:38.36,Default,,0,0,0,,Alright...
 Dialogue: 0,0:12:38.82,0:12:40.86,Default,,0,0,0,,If you as much as think about spilling it...
+Dialogue: 0,0:12:41.57,0:12:42.16,Default,,0,0,0,,And this...
 Dialogue: 0,0:12:43.26,0:12:44.74,Default,,0,0,0,,Better remember this well!
 Dialogue: 0,0:12:44.74,0:12:46.55,Default,,0,0,0,,Are you okay, Honmaru?
 Dialogue: 0,0:12:49.80,0:12:53.50,Default,,0,0,0,,Zakenja Neyo, you dumbass!
@@ -246,7 +247,7 @@ Dialogue: 0,0:13:34.29,0:13:38.30,Default,,0,0,0,,Yay! Neyo and pro-wrestling te
 Dialogue: 0,0:13:40.57,0:13:41.63,Default,,0,0,0,,Are you kidding...
 Dialogue: 0,0:13:44.94,0:13:46.26,Default,,0,0,0,,Are you kidding me?!
 Dialogue: 0,0:13:47.97,0:13:48.02,Sign,,0,0,0,,{\bord1\blur\c&HE380C5&\fs40}Don't you pause to peek!! {止めて見てんじゃねえよ - hope she means this}
-Dialogue: 0,0:13:48.06,0:13:48.22,Sign,,0,0,0,,{\c&H28A9C0&\3c&H7511B9&\fs60}Slip! {g}
+Dialogue: 0,0:13:48.06,0:13:48.22,Sign,,0,0,0,,{\c&H28A9C0&\bord4\3c&H7511B9&\fs60}Slip! {g}
 Dialogue: 0,0:13:49.22,0:13:51.69,Default,,0,0,0,,Come on! What's wrong with you?
 Dialogue: 0,0:13:51.69,0:13:52.94,Default,,0,0,0,,Dammit...
 Dialogue: 0,0:13:54.08,0:13:55.04,Default,,0,0,0,,Get this!
