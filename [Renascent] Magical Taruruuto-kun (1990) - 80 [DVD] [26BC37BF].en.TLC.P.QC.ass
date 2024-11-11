@@ -497,5 +497,5 @@ Dialogue: 0,0:24:03.51,0:24:05.17,Sign,ED,0,0,40,,{\an2\b0\blur1\bord0.5\shad3\c
 Dialogue: 0,0:24:05.17,0:24:10.80,Sign,ED,0,0,40,,{\an2\b0\blur1\bord0.5\shad3\c&HE2E2E2&\3c&HB9AD88&\3a&H3F&\4c&HA82DBF&\4a&H49&\fs30}Taruru, Taruru-Cataburaruru \NCast a spell on me! {タルル　タルル・カタブラルル 呪文をとなえろ}
 Dialogue: 0,0:24:10.80,0:24:17.98,Sign,ED,0,0,40,,{\an2\b0\blur1\bord0.5\shad3\c&HE2E2E2&\3c&HB9AD88&\3a&H3F&\4c&HA82DBF&\4a&H49&\fs30}Taruru, Taruru-Cataburaruru \NI'll make your wish come true! {タルル　タルル・カタブラルル 望みのままに　}
 Dialogue: 0,0:24:17.98,0:24:23.15,Sign,ED,0,0,40,,{\an2\b0\blur1\bord0.5\shad3\c&HE2E2E2&\3c&HB9AD88&\3a&H3F&\4c&HA82DBF&\4a&H49&\fs30}Taru's love is you {タル love is you} \NLove is you!
-Dialogue: 1,0:24:17.98,0:24:23.15,Sign,,0,0,0,,{\shad0\fs24\b1\fsp1\bord1\blur1\an2\c&HEFEEE3&\1a&H1F&\4c&H14329B&\4a&H55&\3c&H4D4A48&\3a&H5F&\pos(360,160)}Raws by Renascent \NTranslation by Perevodildo \NQC by MartyMcflies (LonelyChaser) & Izma\NTranslation checking by Aurelius
+Dialogue: 1,0:24:17.98,0:24:23.15,Sign,,0,0,0,,{\shad0\fs24\b1\fsp1\bord1\blur1\an2\c&HEFEEE3&\1a&H1F&\4c&H14329B&\4a&H55&\3c&H4D4A48&\3a&H5F&\pos(360,160)}Raws by Renascent \NTranslation by Perevodildo \NQC by MartyMcflies (LonelyChaser) \NTranslation checking by Aurelius
 Comment: 0,0:24:29.62,0:24:29.62,Sign,,0,0,0,,{OP/ED border}
