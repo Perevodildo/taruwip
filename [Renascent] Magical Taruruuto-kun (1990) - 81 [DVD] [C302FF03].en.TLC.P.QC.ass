@@ -11,13 +11,12 @@ YCbCr Matrix: TV.601
 Last Style Storage: Default
 Audio File: [Renascent] Magical Taruruuto-kun (1990) - 81 [DVD] [C302FF03].mkv
 Video File: [Renascent] Magical Taruruuto-kun (1990) - 81 [DVD] [C302FF03].mkv
-Keyframes File: tarukf/taru81_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.367377
-Video Zoom Percent: 1.500000
-Scroll Position: 321
-Active Line: 352
-Video Position: 33044
+Video Zoom Percent: 1.250000
+Scroll Position: 88
+Active Line: 130
+Video Position: 11523
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,7 +62,7 @@ Dialogue: 1,0:24:17.85,0:24:23.02,Sign,,0,0,0,,{\shad0\fs24\b1\fsp1\bord1\blur1\
 Comment: 0,0:24:29.62,0:24:29.62,Sign,,0,0,0,,{OP/ED border}
 Dialogue: 0,0:01:32.78,0:01:37.30,Default,,0,0,0,,Taru! I'm looking forward \Nto sweet toasts for lunch today! {/fried bread/揚げパン}
 Dialogue: 0,0:01:37.30,0:01:38.29,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:01:38.29,0:01:42.22,Default,,0,0,0,,Ah! That deep-fried toast covered in sugar!
+Dialogue: 0,0:01:38.29,0:01:42.22,Default,,0,0,0,,Ah! That deep-fried toast covered in sugar...!
 Dialogue: 0,0:01:43.92,0:01:47.34,Default,,0,0,0,,Honmaru, me love sweet toasts too!
 Dialogue: 0,0:01:47.34,0:01:49.88,Default,,0,0,0,,But takoyaki love even more!
 Dialogue: 0,0:01:49.88,0:01:53.15,Default,,0,0,0,,Really? Well, I'm still on the sweet toasts team!
@@ -79,7 +78,7 @@ Dialogue: 0,0:02:18.88,0:02:20.18,Default,,0,0,0,,That was scary...
 Dialogue: 0,0:02:20.18,0:02:22.30,Default,,0,0,0,,This tanuki not feeling well.
 Dialogue: 0,0:02:23.71,0:02:26.32,Default,,0,0,0,,I'll give him Power Upple Juice.
 Dialogue: 0,0:02:27.04,0:02:28.49,Default,,0,0,0,,Be careful, Taru.
-Dialogue: 0,0:02:28.49,0:02:30.91,Default,,0,0,0,,It's small, but can be quite ferocious!
+Dialogue: 0,0:02:28.49,0:02:30.91,Default,,0,0,0,,It's small, but it can be quite ferocious!
 Dialogue: 0,0:02:30.91,0:02:34.05,Default,,0,0,0,,You'll feel better when you drink this. Here.
 Dialogue: 0,0:02:36.70,0:02:38.30,Default,,0,0,0,,Spilled it...
 Dialogue: 0,0:02:38.85,0:02:41.72,Default,,0,0,0,,Let's go, Taru. We'll be late for school.
@@ -89,7 +88,7 @@ Dialogue: 0,0:03:11.59,0:03:12.84,Default,,0,0,0,,Okay!
 Dialogue: 0,0:03:15.55,0:03:18.03,Default,,0,0,0,,Honmaru, tanuki got better!
 Dialogue: 0,0:03:18.03,0:03:20.30,Default,,0,0,0,,Oh, glad to know. Let's hurry!
 Dialogue: 0,0:03:25.51,0:03:33.48,Sign,,0,0,100,,{\blur5\bord5\c&HCECAB6&\3c&H183927&\3a&H24&}Episode 81 \N{\fs40}Bon-Bonanza Tanukichi-kun {ぽんぽこタヌ吉くん}
-Dialogue: 0,0:03:48.06,0:03:52.18,Default,,0,0,0,,I've been looking forward to the day we meet again \Nfor a whole month, Sweet Toast-chan!
+Dialogue: 0,0:03:48.06,0:03:52.18,Default,,0,0,0,,I've been looking forward to the day we meet\Nagain for a whole month, Sweet Toast-chan!
 Dialogue: 0,0:03:52.18,0:03:53.98,Default,,0,0,0,,Move it already!
 Dialogue: 0,0:03:53.98,0:03:55.88,Default,,0,0,0,,Don't push me, Jabao! What's your problem? {}
 Dialogue: 0,0:03:55.88,0:03:58.26,Default,,0,0,0,,Jeez, you're a noisy bastard.
@@ -98,7 +97,7 @@ Dialogue: 0,0:04:03.89,0:04:05.89,Default,,0,0,0,,What's wrong with you?
 Dialogue: 0,0:04:05.89,0:04:07.89,Default,,0,0,0,,Really, this guy...{g}
 Dialogue: 0,0:04:08.58,0:04:10.80,Default,,0,0,0,,My sweet toasts!
 Dialogue: 0,0:04:14.03,0:04:16.12,Default,,0,0,0,,What the blazes, Korekiyo?!{g}
-Dialogue: 0,0:04:16.12,0:04:19.41,Default,,0,0,0,,I know you love the sweet toasts \Njust as much as I do!
+Dialogue: 0,0:04:16.12,0:04:19.41,Default,,0,0,0,,I know you love sweet toasts \Njust as much as I do!
 Dialogue: 0,0:04:20.30,0:04:21.87,Default,,0,0,0,,The hell are you doing?!
 Dialogue: 0,0:04:22.34,0:04:24.36,Default,,0,0,0,,What's the meaning of this, Korekiyo?
 Dialogue: 0,0:04:31.74,0:04:33.13,Default,,0,0,0,,I'm snorry! {would assume this yasu to be some sound typical of racoon which... who the fuck knows what sound raccoons make, right? might as well be snort}
@@ -108,27 +107,26 @@ Dialogue: 0,0:04:36.30,0:04:37.79,Default,,0,0,0,,Tanuki?
 Dialogue: 0,0:04:38.19,0:04:39.49,Default,,0,0,0,,And it's talking!
 Dialogue: 0,0:04:42.30,0:04:43.48,Default,,0,0,0,,Hey!
 Dialogue: 0,0:04:43.48,0:04:45.40,Default,,0,0,0,,Taru, you know him?
-Dialogue: 0,0:04:45.40,0:04:47.50,Default,,0,0,0,,It's the tanuki we met in the morning
+Dialogue: 0,0:04:45.40,0:04:47.50,Default,,0,0,0,,It's the tanuki we met in the morning.
 Dialogue: 0,0:04:47.50,0:04:48.12,Default,,0,0,0,,Ah?
-Dialogue: 0,0:04:48.54,0:04:52.06,Default,,0,0,0,,But the one at the pet shop \Nlooked like a way more normal tanuki.
+Dialogue: 0,0:04:48.54,0:04:52.06,Default,,0,0,0,,But the one at the pet shop \Nlooked way more normal.
 Dialogue: 0,0:04:52.06,0:04:54.01,Default,,0,0,0,,This - that tanuki. {assumed ano}
 Dialogue: 0,0:04:54.01,0:04:55.37,Default,,0,0,0,,That's snoright.
-Dialogue: 0,0:04:55.37,0:04:57.98,Default,,0,0,0,,I'm the one you saved this morning.
-Dialogue: 0,0:04:57.98,0:05:02.41,Default,,0,0,0,,Baby tanuki of the shapeshifting tanuki tribe. \NName's Tanukichi, snort... {タヌ吉}
-Dialogue: 0,0:05:03.53,0:05:04.28,Default,,0,0,0,,Actually...
+Dialogue: 0,0:04:55.37,0:04:57.98,Default,,0,0,0,,You saved me this morning.
+Dialogue: 0,0:04:57.98,0:05:02.41,Default,,0,0,0,,I'm a baby tanuki of the shapeshifting tanuki tribe. \NName's Tanukichi, snort... {タヌ吉}
+Dialogue: 0,0:05:03.43,0:05:04.28,Default,,0,0,0,,Actually...
 Dialogue: 0,0:05:06.84,0:05:10.70,Default,,0,0,0,,A heartless person took me away \Nfrom my home in the mountains.
-Dialogue: 0,0:05:11.64,0:05:15.94,Default,,0,0,0,,I was toyed with, dragged around and abused.
-Dialogue: 0,0:05:16.67,0:05:21.53,Default,,0,0,0,,Until I've become completely unwanted, \Nso they decided to get rid of me!
+Dialogue: 0,0:05:11.64,0:05:15.94,Default,,0,0,0,,I was toyed with, dragged around, and abused,
+Dialogue: 0,0:05:16.67,0:05:21.53,Default,,0,0,0,,until I became completely unwanted...\NSo they decided to get rid of me!
 Dialogue: 0,0:05:25.42,0:05:29.87,Default,,0,0,0,,Humans are inexcusable villains!
 Dialogue: 0,0:05:30.31,0:05:35.83,Default,,0,0,0,,While I'd have liked to yell that, I couldn't even make a sound and was already prepared to die!
 Dialogue: 0,0:05:36.28,0:05:37.60,Default,,0,0,0,,Until this morning...
-Dialogue: 0,0:05:37.60,0:05:41.58,Default,,0,0,0,,Until Taru-sama and Honmaru-sama \Nrescued me from the depths of despair!{added}
+Dialogue: 0,0:05:37.60,0:05:41.58,Default,,0,0,0,,Taru-sama and Honmaru-sama \Nrescued me from the depths of despair!{added}
 Dialogue: 0,0:05:42.55,0:05:43.57,Default,,0,0,0,,It was nothing...
-Dialogue: 0,0:05:43.98,0:05:46.70,Default,,0,0,0,,Turns out, there are folk like that \Neven among humans?
-Dialogue: 0,0:05:46.70,0:05:49.82,Default,,0,0,0,,I was gobsmacked, \Nfelt I should express my gratitude.
-Dialogue: 0,0:05:49.82,0:05:51.46,Default,,0,0,0,,Thus followed you to here.
-Dialogue: 0,0:05:51.46,0:05:54.60,Default,,0,0,0,,Just to end up making such a blunder \Nbefore I could say anything.
-Dialogue: 0,0:05:55.57,0:05:59.01,Default,,0,0,0,,Don't need gratitude. Friends with Tanukichi.
+Dialogue: 0,0:05:43.98,0:05:46.70,Default,,0,0,0,,So it seems there are folk\Nlike that, even among humans?
+Dialogue: 0,0:05:46.70,0:05:49.82,Default,,0,0,0,,I was gobsmacked, \Nand I felt I should express my gratitude.
+Dialogue: 0,0:05:49.82,0:05:54.60,Default,,0,0,0,,Thus, I followed you here... Just to make\Nsuch a blunder before I could say anything.
+Dialogue: 0,0:05:55.57,0:05:59.01,Default,,0,0,0,,Don't need thanks. Friends with Tanukichi.
 Dialogue: 0,0:05:59.01,0:06:00.59,Default,,0,0,0,,Huh? Friends?
 Dialogue: 0,0:06:01.04,0:06:02.58,Default,,0,0,0,,Yeah! We're friends.
 Dialogue: 0,0:06:02.58,0:06:03.82,Default,,0,0,0,,Let's get along.
@@ -137,7 +135,7 @@ Dialogue: 0,0:06:08.51,0:06:11.91,Default,,0,0,0,,You shouldn't think us humans 
 Dialogue: 0,0:06:12.56,0:06:15.22,Default,,0,0,0,,Tanuki isn't supposed to know \Nhow to serve a school lunch.
 Dialogue: 0,0:06:15.22,0:06:18.30,Default,,0,0,0,,Well, I guess I'll forgive you \Nfor my ruined toasts just this once.
 Dialogue: 0,0:06:20.69,0:06:23.24,Default,,0,0,0,,Thank you very much, everyone!
-Dialogue: 0,0:06:24.00,0:06:29.24,Default,,0,0,0,,This is the first time someone \Nis being so considerate to me, snort!
+Dialogue: 0,0:06:24.00,0:06:29.24,Default,,0,0,0,,This is the first time someone \Nhas ever been so considerate to me, snort!
 Dialogue: 0,0:06:29.24,0:06:30.83,Default,,0,0,0,,Tanukichi!
 Dialogue: 0,0:06:31.80,0:06:33.97,Default,,0,0,0,,Ah! Wait...
 Dialogue: 0,0:06:33.97,0:06:36.75,Default,,0,0,0,,Come to think of it, \Nhow did you escape the cage?
@@ -146,24 +144,24 @@ Dialogue: 0,0:06:42.21,0:06:43.69,Default,,0,0,0,,Therefore...
 Dialogue: 0,0:06:46.16,0:06:48.76,Default,,0,0,0,,Oh! Tanukichi amazing!
 Dialogue: 0,0:06:51.78,0:06:54.10,Default,,0,0,0,,This is how I escaped from the cage.
 Dialogue: 0,0:06:57.30,0:07:02.49,Default,,0,0,0,,But until you helped me this morning, \NI never had enough strength to afford a transformation.
-Dialogue: 0,0:07:03.00,0:07:08.24,Default,,0,0,0,,Then, if I'm not wrong, Korekiyo had been this guy Tanukichi today?
+Dialogue: 0,0:07:03.00,0:07:08.24,Default,,0,0,0,,Then, if I'm not wrong,\NKorekiyo had been this Tanukichi guy today?
 Dialogue: 0,0:07:12.12,0:07:14.87,Default,,0,0,0,,But where's the real Korekiyo?
 Dialogue: 0,0:07:17.50,0:07:19.50,Default,,0,0,0,,This is a disaster!
 Dialogue: 0,0:07:22.76,0:07:25.70,Default,,0,0,0,,Sorry! I'm truly snorry!
-Dialogue: 0,0:07:29.70,0:07:33.48,Default,,0,0,0,,Really, you could've spotted the impostor sooner.
+Dialogue: 0,0:07:29.70,0:07:33.48,Default,,0,0,0,,Jeez... you should've spotted the impostor sooner.
 Dialogue: 0,0:07:33.48,0:07:36.54,Default,,0,0,0,,Ah, Korekiyo. \NWell, this tanuki didn't mean no harm... {g, /get mad at}
 Dialogue: 0,0:07:36.54,0:07:40.66,Default,,0,0,0,,I know. The walls have ears \Nand the doors have eyes, remember?
 Dialogue: 0,0:07:40.66,0:07:43.38,Default,,0,0,0,,I heard it all from inside the locker.
 Dialogue: 0,0:07:43.38,0:07:44.93,Default,,0,0,0,,I won't get angry.
 Dialogue: 0,0:07:46.30,0:07:48.16,Default,,0,0,0,,Thanks a snort!
 Dialogue: 0,0:07:48.16,0:07:52.58,Default,,0,0,0,,Yay! Everyone Tanukichi's friends!
-Dialogue: 0,0:07:57.92,0:08:02.42,Default,,0,0,0,,Oh-ho! And just like that, \Nhe shapeshifted into a teapot! {bunbuku chagama (a mythical raccoon dog transformed into a teapot)}
+Dialogue: 0,0:07:57.92,0:08:02.42,Default,,0,0,0,,Oh-ho! And just like that, \Nhe's shapeshifted into a teapot! {bunbuku chagama (a mythical raccoon dog transformed into a teapot)}
 Dialogue: 0,0:08:02.42,0:08:05.62,Default,,0,0,0,,Tanukichi-kun can do so many different things!
 Dialogue: 0,0:08:05.62,0:08:07.94,Default,,0,0,0,,That's true, he's one exceptional tanuki!
 Dialogue: 0,0:08:10.43,0:08:12.02,Default,,0,0,0,,Thanks for your attention!
-Dialogue: 0,0:08:12.58,0:08:17.20,Default,,0,0,0,,As a descent of the shapeshifting tanuki tribe \NI can transforms into various things and do tricks.
+Dialogue: 0,0:08:12.58,0:08:17.20,Default,,0,0,0,,As a descent of the shapeshifting tanuki tribe,\NI can transform into various things and do tricks.
 Dialogue: 0,0:08:17.85,0:08:20.38,Default,,0,0,0,,And of course, I'm a little more brainy than the others. {おつむがよろしいい}
-Dialogue: 0,0:08:20.38,0:08:27.95,Default,,0,0,0,,Even I, the World Junior Know-it-all Contest Champion, \Nhad no idea a tanuki tribe like that exists.
+Dialogue: 0,0:08:20.38,0:08:27.95,Default,,0,0,0,,Even I, the World Junior Know-it-all Contest Champion, \Nhad no idea a tanuki tribe like that existed.
 Dialogue: 0,0:08:29.10,0:08:31.78,Default,,0,0,0,,Where do you live, Tanukichi-kun?
 Dialogue: 0,0:08:31.78,0:08:33.70,Default,,0,0,0,,Dotamakin Valley. {どたまきん谷}{no clue what's the joke here}
 Dialogue: 0,0:08:34.30,0:08:39.51,Default,,0,0,0,,This place you call Dotamakin Valley, \Nit's near the Shinkin Valley Driveway, isn't it? {still no clue}
@@ -174,19 +172,19 @@ Dialogue: 0,0:08:49.90,0:08:51.55,Default,,0,0,0,,What's wrong, Tanukichi?
 Dialogue: 0,0:08:51.55,0:08:55.97,Default,,0,0,0,,I can't be playing with you at such a crucial time!
 Dialogue: 0,0:08:55.97,0:08:59.78,Default,,0,0,0,,Kaka-sama is still lying there, bedridden! {lit: facing down on sickbed}{/mother}
 Dialogue: 0,0:09:02.31,0:09:04.04,Default,,0,0,0,,Exactly so, snort.
-Dialogue: 0,0:09:05.52,0:09:10.32,Default,,0,0,0,,Because of the farts, produced by cars and bikes \Ndriving down that driveway, {/gas}
+Dialogue: 0,0:09:05.52,0:09:10.32,Default,,0,0,0,,Because of the farts produced by cars\Nand bikes driving down that driveway, {/gas}
 Dialogue: 0,0:09:10.32,0:09:13.30,Default,,0,0,0,,she developed a disease that makes her cough a lot!
 Dialogue: 0,0:09:13.30,0:09:14.42,Default,,0,0,0,,Farts?
-Dialogue: 0,0:09:14.42,0:09:16.51,Default,,0,0,0,,It must be that he means the exhaust gas.
-Dialogue: 0,0:09:27.04,0:09:32.53,Default,,0,0,0,,Enraged, Toto-sama keeps smashing \Npeople's cars and motorcycles. {he thinks the cars are alive} {/father}
-Dialogue: 0,0:09:36.22,0:09:39.33,Default,,0,0,0,,But I know that what Toto-sama does \Nis not a good thing.
+Dialogue: 0,0:09:14.42,0:09:16.51,Default,,0,0,0,,Maybe he means the exhaust gas.
+Dialogue: 0,0:09:27.04,0:09:32.53,Default,,0,0,0,,Toto-sama keeps smashing people's\Ncars and motorcycles in a rage of fury. {he thinks the cars are alive} {/father}
+Dialogue: 0,0:09:36.22,0:09:39.33,Default,,0,0,0,,But what Toto-sama does...\NI know that it is not a good thing.
 Dialogue: 0,0:09:39.33,0:09:42.04,Default,,0,0,0,,He only brings more trouble to our friends! {g}
 Dialogue: 0,0:09:42.66,0:09:47.14,Default,,0,0,0,,Because we are friends with people, aren't we?
 Dialogue: 0,0:09:47.14,0:09:48.73,Default,,0,0,0,,Yeah! Friends.
 Dialogue: 0,0:09:49.84,0:09:53.71,Default,,0,0,0,,If Kaka-sama's illness is cured, \NToto-sama will be placated.
 Dialogue: 0,0:09:53.71,0:09:58.66,Default,,0,0,0,,So I went and asked Tanuki Hermit \Nfor a way to cure the illness.
 Dialogue: 0,0:09:59.68,0:10:01.96,Default,,0,0,0,,On the Kobonchi Mountain far away,
-Dialogue: 0,0:10:01.96,0:10:07.23,Default,,0,0,0,,there grows a medicinal herb called the rainbow color, \Nfrom which the medicine can be made.
+Dialogue: 0,0:10:01.96,0:10:07.23,Default,,0,0,0,,there grows a medicinal herb called the Rainbow Color, \Nfrom which the medicine can be made.
 Dialogue: 0,0:10:15.04,0:10:16.85,Default,,0,0,0,,Alright, let’s set out!
 Dialogue: 0,0:10:16.85,0:10:20.06,Default,,0,0,0,,I’m going to the Kobonchi Mountain \Nto get that medicinal herb!
 Dialogue: 0,0:10:20.78,0:10:25.58,Default,,0,0,0,,I’ll cure Kaka-sama's illness \Nand stop Toto-sama's rampage.
@@ -199,25 +197,25 @@ Dialogue: 0,0:10:42.36,0:10:44.70,Default,,0,0,0,,This guy's been through a lot.
 Dialogue: 0,0:10:45.74,0:10:50.40,Default,,0,0,0,,Hey, everyone! Let's go look for the medicinal herb \Ntogether with Tanukichi-kun! Okay?
 Dialogue: 0,0:10:51.21,0:10:54.34,Default,,0,0,0,,Yeah! Good idea, Iyona-chan.
 Dialogue: 0,0:10:54.34,0:10:56.80,Default,,0,0,0,,Yeah! We’re going.
-Dialogue: 0,0:10:58.76,0:11:02.31,Default,,0,0,0,,I knew the people are our true friends!{}
-Dialogue: 0,0:11:03.06,0:11:05.39,Default,,0,0,0,,Thank you, snort! Thank you!
-Dialogue: 0,0:11:24.28,0:11:31.69,Default,,0,0,0,,Always Captivating Tama-chan, please tell us \Nwhere is the Kobonchi Mountain on which the herb grows?
-Dialogue: 0,0:11:33.22,0:11:37.05,Default,,0,0,0,,Give me just for a moment. \NTry turning to the next page.
+Dialogue: 0,0:10:58.76,0:11:02.31,Default,,0,0,0,,I knew humans are our true friends!{}
+Dialogue: 0,0:11:02.93,0:11:05.39,Default,,0,0,0,,Thank you, snort! Thank you!
+Dialogue: 0,0:11:24.28,0:11:31.69,Default,,0,0,0,,Always Captivating Tama-chan, please tell us... \NWhere is the Kobonchi Mountain on which the herb grows?
+Dialogue: 0,0:11:33.22,0:11:37.05,Default,,0,0,0,,Give me just a moment. \NTry turning to the next page.
 Dialogue: 0,0:11:41.98,0:11:43.53,Default,,0,0,0,,It’s right here.
 Dialogue: 0,0:11:44.02,0:11:45.70,Default,,0,0,0,,Okay, let’s make haste.
 Dialogue: 0,0:11:45.70,0:11:50.34,Default,,0,0,0,,My car, Perillo Rastatessa \Nboasts a top speed of 290km/h. {was ferrari testarossa in manga, here - no clue}
 Dialogue: 0,0:11:50.34,0:11:53.25,Default,,0,0,0,,Naturally, its driveability and comfort are also world class... {no clue what he calls the “liveability; livability” of a car}
 Dialogue: 0,0:11:53.25,0:11:58.18,Default,,0,0,0,,No! We can’t take a car. \NAfter all, Tanukichi-kun's mother...
-Dialogue: 0,0:11:58.57,0:12:01.80,Default,,0,0,0,,It were the cars that caused her to fall ill.
+Dialogue: 0,0:11:58.57,0:12:01.80,Default,,0,0,0,,It was the cars that caused her to fall ill.
 Dialogue: 0,0:12:01.80,0:12:05.04,Default,,0,0,0,,Yeah! We'll all walk on foot.
-Dialogue: 0,0:12:05.04,0:12:05.80,Default,,0,0,0,,The stupidity!
+Dialogue: 0,0:12:05.04,0:12:05.80,Default,,0,0,0,,That's stupid!
 Dialogue: 0,0:12:05.80,0:12:08.79,Default,,0,0,0,,It’d take us a month to get there, \Nwalking on our itsy-bitsy pace!{}
 Dialogue: 0,0:12:08.79,0:12:12.97,Default,,0,0,0,,It's alright. With my magic, \Nwe can make it there by walking.
 Dialogue: 0,0:12:12.97,0:12:17.55,Default,,0,0,0,,This - Stretch-Beer! If you drink this, \Nyou can stretch your body however you want.
 Dialogue: 0,0:12:17.55,0:12:20.79,Default,,0,0,0,,Taru, are you sure it’s alright for us to drink beer?
-Dialogue: 0,0:12:20.79,0:12:22.05,Default,,0,0,0,,It’s fine, fine.
+Dialogue: 0,0:12:20.79,0:12:22.05,Default,,0,0,0,,It’s fine.
 Dialogue: 0,0:12:22.05,0:12:27.22,Default,,0,0,0,,This Stretch-Beer is a magical beer, \Ndifferent from the beer dad drinks.
-Dialogue: 0,0:12:27.22,0:12:31.16,Default,,0,0,0,,Though the side-effect \Nof feeling drowsy is still there!{}
+Dialogue: 0,0:12:27.22,0:12:31.16,Default,,0,0,0,,Though, the side-effect \Nof feeling drowsy is still there!{}
 Dialogue: 0,0:12:34.23,0:12:36.00,Default,,0,0,0,,We’ll be fine if we drink just a bit.
 Dialogue: 0,0:12:36.00,0:12:37.44,Default,,0,0,0,,I see. Then...
 Dialogue: 0,0:12:44.93,0:12:46.41,Default,,0,0,0,,Rich flavor and pure taste.{}
@@ -232,14 +230,14 @@ Dialogue: 0,0:13:24.88,0:13:25.72,Default,,0,0,0,,Yeah...
 Dialogue: 0,0:13:25.72,0:13:29.44,Default,,0,0,0,,Look! An astonishing view!
 Dialogue: 0,0:13:34.68,0:13:38.17,Default,,0,0,0,,Taru-chan, Kobonchi Mountain is over there.
 Dialogue: 0,0:13:42.68,0:13:45.95,Default,,0,0,0,,Alright, let's go, everyone!
-Dialogue: 0,0:13:50.45,0:13:52.30,Default,,0,0,0,,Covered it in just one step!
-Dialogue: 0,0:13:52.30,0:13:54.35,Default,,0,0,0,,All the way to there?
+Dialogue: 0,0:13:50.45,0:13:52.30,Default,,0,0,0,,He covered it in just one step!
+Dialogue: 0,0:13:52.30,0:13:54.35,Default,,0,0,0,,All the way over there?
 Dialogue: 0,0:13:54.35,0:13:55.75,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:13:56.12,0:13:57.21,Default,,0,0,0,,This way,
 Dialogue: 0,0:13:57.72,0:13:58.90,Default,,0,0,0,,we can walk there...{}
 Dialogue: 0,0:14:06.95,0:14:09.97,Default,,0,0,0,,Hey, did you find it?
 Dialogue: 0,0:14:09.97,0:14:11.83,Default,,0,0,0,,Not yet!
-Dialogue: 0,0:14:13.34,0:14:16.60,Default,,0,0,0,,I can't find nothing even remotely similar!
+Dialogue: 0,0:14:13.34,0:14:16.60,Default,,0,0,0,,I can't find anything even remotely similar!
 Dialogue: 0,0:14:16.60,0:14:18.12,Default,,0,0,0,,Is it really even here?
 Dialogue: 0,0:14:18.12,0:14:19.85,Default,,0,0,0,,Found it! It’s this!
 Dialogue: 0,0:14:26.99,0:14:29.65,Default,,0,0,0,,This is it. The medicinal herb.
@@ -286,12 +284,12 @@ Dialogue: 0,0:17:25.31,0:17:27.79,Default,,0,0,0,,Tanukichi!
 Dialogue: 0,0:17:28.32,0:17:30.78,Default,,0,0,0,,Humans are the enemy! The devils!
 Dialogue: 0,0:17:30.78,0:17:32.66,Default,,0,0,0,,Why’d you ever think they’re friends?
 Dialogue: 0,0:17:32.66,0:17:34.24,Default,,0,0,0,,Go cool your head!{}
-Dialogue: 0,0:17:35.22,0:17:36.51,Default,,0,0,0,,I’m drowning! Drowning.{}
+Dialogue: 0,0:17:35.22,0:17:36.51,Default,,0,0,0,,I’m drowning! Drowning...
 Dialogue: 0,0:17:38.26,0:17:41.71,Default,,0,0,0,,You humans are the root of my wife’s illness!
 Dialogue: 0,0:17:42.43,0:17:47.19,Default,,0,0,0,,You also capture our kin, put us in cages \Nand toy with us to death!
 Dialogue: 0,0:17:48.48,0:17:50.66,Default,,0,0,0,,Put in cages... as toys?{}
 Dialogue: 0,0:17:50.66,0:17:52.18,Default,,0,0,0,,That's why I too
-Dialogue: 0,0:17:53.60,0:17:57.89,Default,,0,0,0,,took it upon myself to injury people, \Nput them in cages and toy with them!
+Dialogue: 0,0:17:53.60,0:17:57.89,Default,,0,0,0,,took it upon myself to\Ndo exactly the same to you people!
 Dialogue: 0,0:17:58.70,0:18:02.29,Default,,0,0,0,,I’ll keep you in that cage until you die!
 Dialogue: 0,0:18:05.48,0:18:07.26,Default,,0,0,0,,You can’t do that! {}
 Dialogue: 0,0:18:07.26,0:18:08.10,Default,,0,0,0,,That's right!
@@ -307,12 +305,12 @@ Dialogue: 0,0:18:37.28,0:18:40.02,Default,,0,0,0,,We’re sorry, Toto the Tanuki
 Dialogue: 0,0:18:42.42,0:18:46.38,Default,,0,0,0,,You have every right to lock us up in this cage.
 Dialogue: 0,0:18:46.38,0:18:47.86,Default,,0,0,0,,Oh?
 Dialogue: 0,0:18:48.52,0:18:49.44,Default,,0,0,0,,I...
-Dialogue: 0,0:18:50.17,0:18:51.75,Default,,0,0,0,,will stay here
+Dialogue: 0,0:18:50.17,0:18:51.75,Default,,0,0,0,,will stay here.
 Dialogue: 0,0:18:53.28,0:18:55.32,Default,,0,0,0,,What are you saying, Iyona-chan?
 Dialogue: 0,0:19:01.98,0:19:02.93,Default,,0,0,0,,Iyona-chan,
 Dialogue: 0,0:19:03.32,0:19:04.64,Default,,0,0,0,,I'm staying too.
 Dialogue: 0,0:19:05.28,0:19:06.86,Default,,0,0,0,,Tanukichi's father!
-Dialogue: 0,0:19:06.86,0:19:10.08,Default,,0,0,0,,I want you to play with me as with your pet \Nfor the rest of my life! {u}
+Dialogue: 0,0:19:06.86,0:19:10.08,Default,,0,0,0,,I want you to play with me as\Nyour pet for the rest of my life! {u}
 Dialogue: 0,0:19:10.08,0:19:11.37,Default,,0,0,0,,Honmaru-kun...
 Dialogue: 0,0:19:11.37,0:19:15.23,Default,,0,0,0,,Maybe this'll lead to everyone \Nleaving me and Iyona-chan alone here?
 Dialogue: 0,0:19:15.69,0:19:17.74,Default,,0,0,0,,Doesn’t sound half-bad, actually.
@@ -324,7 +322,7 @@ Dialogue: 0,0:19:26.19,0:19:28.12,Default,,0,0,0,,Why don’t you move closer to
 Dialogue: 0,0:19:39.70,0:19:44.97,Default,,0,0,0,,Honmaru, I'm the World Champion of the Being Played Around to Death Contest!{}
 Dialogue: 0,0:19:44.97,0:19:47.23,Default,,0,0,0,,Think I’ll let you have all the fame to yourself?{/look cool}
 Dialogue: 0,0:19:47.23,0:19:48.34,Default,,0,0,0,,You cretin!
-Dialogue: 0,0:19:48.34,0:19:50.36,Default,,0,0,0,,I’m the one who stays here!
+Dialogue: 0,0:19:48.34,0:19:50.36,Default,,0,0,0,,I’m the one who'll stay here!
 Dialogue: 0,0:19:50.36,0:19:52.77,Default,,0,0,0,,Jabao-san, are you quite in your mind?
 Dialogue: 0,0:19:52.77,0:19:55.56,Default,,0,0,0,,If Iyona-chan stays, so do I!
 Dialogue: 0,0:19:56.47,0:19:57.47,Default,,0,0,0,,Oh, you...
@@ -341,7 +339,7 @@ Dialogue: 0,0:20:44.09,0:20:47.10,Default,,0,0,0,,Thanks to you, I feel a lot be
 Dialogue: 0,0:20:47.10,0:20:50.56,Default,,0,0,0,,Really, you’re so quick to jump to wrong conclusions, Toto-sama.
 Dialogue: 0,0:20:50.94,0:20:53.62,Default,,0,0,0,,This was a piece of cake anyhow! {}
 Dialogue: 0,0:20:53.62,0:20:54.58,Default,,0,0,0,,But...
-Dialogue: 0,0:20:55.24,0:21:00.13,Default,,0,0,0,,The Humanity will only keep encroaching \Nmore and more on this peaceful mountain.
+Dialogue: 0,0:20:55.24,0:21:00.13,Default,,0,0,0,,Humanity will only keep encroaching \Nmore and more on this peaceful mountain.
 Dialogue: 0,0:21:02.66,0:21:04.95,Default,,0,0,0,,Tama-chan, please!
 Dialogue: 0,0:21:05.54,0:21:06.99,Default,,0,0,0,,Let’s see.
 Dialogue: 0,0:21:06.99,0:21:10.00,Default,,0,0,0,,For that case, you could use Protectapple. {not in manga}
@@ -361,11 +359,11 @@ Dialogue: 0,0:21:53.83,0:21:56.02,Default,,0,0,0,,Oh! Ain’t that great?
 Dialogue: 0,0:21:56.02,0:21:57.79,Default,,0,0,0,,Good for you, Tanukichi!
 Dialogue: 0,0:21:57.79,0:22:00.61,Default,,0,0,0,,All's well that ends well.
 Dialogue: 0,0:22:01.11,0:22:03.32,Default,,0,0,0,,Well, if there's something you don't understand,
-Dialogue: 0,0:22:03.32,0:22:08.36,Default,,0,0,0,,please feel free to ask me, \Nthe World Junior Erudition Champion, anytime. {no cluewhat’s this shumi or what’s “hobby/pastime” to do with not understanding something}
+Dialogue: 0,0:22:03.32,0:22:08.36,Default,,0,0,0,,please feel free to ask me, \Nthe World Junior Intellect Champion, anytime. {no cluewhat’s this shumi or what’s “hobby/pastime” to do with not understanding something}
 Dialogue: 0,0:22:08.78,0:22:10.71,Default,,0,0,0,,Don’t give up, Tanukichi!
 Dialogue: 0,0:22:11.26,0:22:12.35,Default,,0,0,0,,Everyone...
 Dialogue: 0,0:22:12.82,0:22:15.36,Default,,0,0,0,,Thank you ever so much!
-Dialogue: 0,0:22:15.80,0:22:18.86,Default,,0,0,0,,Don’t need thanks. We’re friend.
+Dialogue: 0,0:22:15.80,0:22:18.86,Default,,0,0,0,,Don’t need thanks. We’re friends.
 Dialogue: 0,0:22:20.04,0:22:22.42,Default,,0,0,0,,Yes, friendsnort!
 Dialogue: 0,0:22:25.95,0:22:27.78,Default,,0,0,0,,Friends!
 Dialogue: 0,0:22:38.23,0:22:41.72,Default,,0,0,0,,In the warm spring sunset, \Nthe sakura petals flutter down.
